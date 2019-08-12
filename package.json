@@ -1,0 +1,24 @@
+{
+  "name": "svelte-quickstart",
+  "version": "1.0.0",
+  "description": "The Svelte Quickstart",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gndx/svelte-quickstart.git"
+  },
+  "keywords": [
+    "svelte",
+    "sveltejs",
+    "javascript"
+  ],
+  "author": "Oscar Barajas <oscar@arepa.dev>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gndx/svelte-quickstart/issues"
+  },
+  "homepage": "https://github.com/gndx/svelte-quickstart#readme"
+}
