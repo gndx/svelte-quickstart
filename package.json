@@ -24,12 +24,12 @@
   },
   "homepage": "https://github.com/gndx/svelte-quickstart#readme",
   "dependencies": {
-    "@babel/core": "^7.5.5",
-    "@babel/polyfill": "^7.4.4",
-    "@babel/preset-env": "^7.5.5",
     "svelte": "^3.7.1"
   },
   "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/polyfill": "^7.4.4",
+    "@babel/preset-env": "^7.5.5",
     "babel-loader": "^8.0.6",
     "html-webpack-plugin": "^3.2.0",
     "svelte-loader": "^2.13.6",
