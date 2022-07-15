@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/gndx/svelte-quickstart#readme",
   "dependencies": {
-    "svelte": "^3.20.1"
+    "svelte": "^3.49.0"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0",
